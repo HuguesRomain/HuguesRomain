@@ -35,4 +35,6 @@ const BackgroundContext = styled.div<{ isDark: boolean }>`
   transition: ${transitionTime};
   z-index: -1000;
   height: 100%;
+  position: relative;
+  z-index: -1;
 `

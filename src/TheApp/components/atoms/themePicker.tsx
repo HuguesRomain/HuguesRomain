@@ -36,7 +36,7 @@ const ThemePickerStyled = styled.a<{ isLocation?: boolean }>`
   display: flex;
   align-items: center;
   flex-direction: column;
-  z-index: 100;
+  z-index: 1000;
   cursor: pointer;
   @media (min-width: ${breakPoint.tabletPortrait}) {
     padding: ${space.s};

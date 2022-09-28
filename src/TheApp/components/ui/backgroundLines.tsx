@@ -58,7 +58,7 @@ const WrapperUi = styled.div`
   height: 100%;
   width: 100%;
   overflow: hidden;
-  z-index: 0;
+  z-index: -1000;
 `
 
 const ClimbingText = styled.p<{climbingSpeed: number, orientation: {a: number, b: number}}>`
