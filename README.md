@@ -12,30 +12,30 @@
   <a href="https://huguesromain.com">huguesromain.com</a>
 </p>
 
-<p align="center">
-  <a href="https://huguesromain.com/en">
-    <img src="assets/prompt.png" alt="Ask Hugues" width="520" />
-  </a>
-</p>
-
 <br />
 
 🟢 **Available for work** · Nice · remote friendly
 
-Software engineer and AI architect, freelance in Nice. I build web and mobile products end to end, and I design and ship AI workflows and agents. Freelance under [Axiome](https://huguesromain.com/en/experience/axiome), co-founder of [aiOrigin](https://huguesromain.com/en/experience/aiorigin).
+Software engineer and AI architect, freelance in Nice. I build web and mobile products end to end, and I design and ship AI workflows and agents. Freelance under [Axiome](https://huguesromain.com/en/experience/axiome).
 
 <br />
 
 ## Work
 
-**[aiOrigin](https://huguesromain.com/en/experience/aiorigin)** — Co-founder & Lead Engineer  
-Multi-tenant SaaS for autonomous AI agents in the enterprise.
+**[StratBuy](https://huguesromain.com/en/experience/stratbuy)** — Product Design, Engineering & Strategy  
+SaaS platform for managing procurement, from the sourcing file to the contract.
 
 **[Sinea Formation](https://huguesromain.com/en/experience/sinea)** — Lead Full-Stack Engineer  
 B2B platform for employee soft skills. Mobile, API, and back office.
 
+**[Recto AI](https://huguesromain.com/en/experience/recto)** — Founder & Product Engineer  
+Photograph a book page, highlight a hard passage, and the AI explains it. FR / EN / ZH.
+
 **[Axiome App Studio](https://huguesromain.com/en/experience/axiome)** — Founder & Product Engineer  
-Consumer apps designed, built and shipped solo — Belle, Koji, KnuckleMax.
+Consumer apps designed, built and shipped solo — Belle, Koji, Tanzy, KnuckleMax, Teacherz.
+
+**[aiOrigin](https://huguesromain.com/en/experience/aiorigin)** — Co-founder & Lead Engineer · 2026  
+Multi-tenant SaaS for autonomous AI agents in the enterprise.
 
 <br />
 
@@ -43,8 +43,9 @@ Consumer apps designed, built and shipped solo — Belle, Koji, KnuckleMax.
 
 **Languages** — TypeScript, JavaScript, Python, SQL  
 **Front** — React, Next.js, React Native / Expo, Tailwind  
-**Back** — FastAPI, NestJS, PostgreSQL, Redis  
-**AI** — Claude Agent SDK, MCP, LiteLLM, RAG, Temporal
+**Back** — FastAPI, NestJS, Prisma, PostgreSQL / Supabase, Redis  
+**AI** — Claude Agent SDK, MCP, LiteLLM, RAG, Temporal  
+**Product** — Product design, architecture, App Store & Play Store publishing
 
 <br />
 
@@ -53,7 +54,7 @@ Consumer apps designed, built and shipped solo — Belle, Koji, KnuckleMax.
 An architecture to challenge, an agent to ship, a product to build end to end — write me, I answer fast.
 
 **[huguesromaindev@gmail.com](mailto:huguesromaindev@gmail.com)**  
-[LinkedIn](https://www.linkedin.com/in/huguesromain/) · [Book a call](https://calendly.com/huguesromain)
+[LinkedIn](https://www.linkedin.com/in/huguesromain/) · [Book a call](https://calendly.com/huguesromain) · [CV](https://huguesromain.com/cv-hugues-romain-en.pdf)
 
 <br />
 
