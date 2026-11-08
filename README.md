@@ -34,7 +34,7 @@ Photograph a book page, highlight a hard passage, and the AI explains it. FR / E
 **[Axiome App Studio](https://huguesromain.com/en/experience/axiome)** — Founder & Product Engineer  
 Consumer apps designed, built and shipped solo — Belle, Koji, Tanzy, KnuckleMax, Teacherz.
 
-**[aiOrigin](https://huguesromain.com/en/experience/aiorigin)** — Co-founder & Lead Engineer · 2026  
+**[aiOrigin](https://huguesromain.com/en/experience/aiorigin)** — Founding Engineer · 2026  
 Multi-tenant SaaS for autonomous AI agents in the enterprise.
 
 <br />
