@@ -1,67 +1,101 @@
 <p align="center">
-  <a href="https://huguesromain.com">
-    <img src="assets/header.png" alt="Hugues Romain — software engineer and AI architect" width="960" />
-  </a>
+  <a href="https://huguesromain.com/en"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img src="assets/banner-light.png" alt="Hugues Romain, Senior Software Engineer and AI Specialist. Available for work, Nice, remote friendly." width="880"></picture></a>
 </p>
 
 <p align="center">
-  <a href="https://huguesromain.com/en">EN</a>
-  ·
-  <a href="https://huguesromain.com/fr">FR</a>
-  ·
-  <a href="https://huguesromain.com">huguesromain.com</a>
+  <b>Freelance senior software engineer and AI specialist in Nice.</b><br>
+  I design and build web and mobile products end to end, with AI agents running in production.
 </p>
 
-<br />
+<p align="center">
+  <a href="https://huguesromain.com/en">Website</a> ·
+  <a href="https://www.linkedin.com/in/huguesromain/">LinkedIn</a> ·
+  <a href="https://calendly.com/huguesromain">Book a call</a> ·
+  <a href="https://huguesromain.com/cv-hugues-romain-en.pdf">CV</a> ·
+  <a href="mailto:huguesromaindev@gmail.com">Email</a>
+</p>
 
-🟢 **Available for work** · Nice · remote friendly
+<br>
 
-Software engineer and AI architect, freelance in Nice. I build web and mobile products end to end, and I design and ship AI workflows and agents. Freelance under [Axiome](https://huguesromain.com/en/experience/axiome).
+## <img src="assets/icon-orbi.png" alt="" width="28" height="28" align="absmiddle"> [Orbi](https://www.get-orbi.com/en)
 
-<br />
+A prompting coach for companies that lives right inside teams' AI assistants. It steps in when a prompt can be improved, turns the best methods into shared skills and shows the company its progress, **without ever reading conversations**.
 
-## Work
+<a href="https://www.get-orbi.com/en"><img src="assets/orbi.webp" alt="Orbi website: Your whole company, better with AI" width="880"></a>
 
-**[StratBuy](https://huguesromain.com/en/experience/stratbuy)** — Product Design, Engineering & Strategy  
-SaaS platform for managing procurement, from the sourcing file to the contract.
+<p>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/chips/mcp-dark.png"><img src="assets/chips/mcp-light.png" alt="MCP" height="34"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/chips/nextjs-dark.png"><img src="assets/chips/nextjs-light.png" alt="Next.js" height="34"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/chips/typescript-dark.png"><img src="assets/chips/typescript-light.png" alt="TypeScript" height="34"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/chips/supabase-dark.png"><img src="assets/chips/supabase-light.png" alt="Supabase" height="34"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/chips/stripe-dark.png"><img src="assets/chips/stripe-light.png" alt="Stripe" height="34"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/chips/copilot-dark.png"><img src="assets/chips/copilot-light.png" alt="Microsoft 365 Copilot" height="34"></picture>
+</p>
 
-**[Sinea Formation](https://huguesromain.com/en/experience/sinea)** — Lead Full-Stack Engineer  
-B2B platform for employee soft skills. Mobile, API, and back office.
+<br>
 
-**[Recto AI](https://huguesromain.com/en/experience/recto)** — Founder & Product Engineer  
-Photograph a book page, highlight a hard passage, and the AI explains it. FR / EN / ZH.
+## <img src="assets/icon-recto.png" alt="" width="28" height="28" align="absmiddle"> [Recto AI](https://apps.apple.com/app/id6830776835)
 
-**[Axiome App Studio](https://huguesromain.com/en/experience/axiome)** — Founder & Product Engineer  
-Consumer apps designed, built and shipped solo — Belle, Koji, Tanzy, KnuckleMax, Teacherz.
+Understand what you read without putting your book down. Photograph the page, highlight the hard passage, and **the AI explains it and keeps it**, book by book. In English, French and Chinese.
 
-**[aiOrigin](https://huguesromain.com/en/experience/aiorigin)** — Founding Engineer · 2026  
-Multi-tenant SaaS for autonomous AI agents in the enterprise.
+<a href="https://apps.apple.com/app/id6830776835"><img src="assets/recto.webp" alt="Recto AI on iPhone: highlight a passage, ask about it, find it again in the library" width="880"></a>
 
-<br />
+<p>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/chips/expo-dark.png"><img src="assets/chips/expo-light.png" alt="React Native / Expo" height="34"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/chips/typescript-dark.png"><img src="assets/chips/typescript-light.png" alt="TypeScript" height="34"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/chips/supabase-dark.png"><img src="assets/chips/supabase-light.png" alt="Supabase" height="34"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/chips/mlkit-dark.png"><img src="assets/chips/mlkit-light.png" alt="ML Kit" height="34"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/chips/revenuecat-dark.png"><img src="assets/chips/revenuecat-light.png" alt="RevenueCat" height="34"></picture>
+</p>
+
+<br>
+
+## Also in production
+
+<p align="center">
+  <a href="https://apps.apple.com/app/id6774620885"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/belle-dark.png"><img src="assets/cards/belle-light.png" alt="Belle, AI beauty advisor on the App Store. Founder and Product Engineer." width="400"></picture></a>
+  <a href="https://stratbuy.fr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/stratbuy-dark.png"><img src="assets/cards/stratbuy-light.png" alt="StratBuy, SaaS platform for managing procurement. Product Design, Engineering and Strategy." width="400"></picture></a>
+  <a href="https://www.champagne-jean-claude-dupont.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/champagne-dupont-dark.png"><img src="assets/cards/champagne-dupont-light.png" alt="Champagne Dupont, website of a family champagne house in Trépail. Web development, with a small team." width="400"></picture></a>
+  <a href="https://huguesromain.com/en"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/site-dark.png"><img src="assets/cards/site-light.png" alt="huguesromain.com, my portfolio with a chat that answers as me and a blog. Design and development." width="400"></picture></a>
+</p>
+
+I have also worked on [Sinea Formation](https://huguesromain.com/en/experience/sinea), [aiOrigin](https://huguesromain.com/en/experience/aiorigin), [Ida](https://huguesromain.com/en/experience/ida) and [theTribe](https://huguesromain.com/en/experience/thetribe).
+
+<br>
 
 ## Stack
 
-**Languages** — TypeScript, JavaScript, Python, SQL  
-**Front** — React, Next.js, React Native / Expo, Tailwind  
-**Back** — FastAPI, NestJS, Prisma, PostgreSQL / Supabase, Redis  
-**AI** — Claude Agent SDK, MCP, LiteLLM, RAG, Temporal  
-**Product** — Product design, architecture, App Store & Play Store publishing
+<p>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/chips/typescript-dark.png"><img src="assets/chips/typescript-light.png" alt="TypeScript" height="34"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/chips/python-dark.png"><img src="assets/chips/python-light.png" alt="Python" height="34"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/chips/react-dark.png"><img src="assets/chips/react-light.png" alt="React" height="34"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/chips/nextjs-dark.png"><img src="assets/chips/nextjs-light.png" alt="Next.js" height="34"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/chips/expo-dark.png"><img src="assets/chips/expo-light.png" alt="React Native / Expo" height="34"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/chips/tailwind-dark.png"><img src="assets/chips/tailwind-light.png" alt="Tailwind CSS" height="34"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/chips/fastapi-dark.png"><img src="assets/chips/fastapi-light.png" alt="FastAPI" height="34"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/chips/nestjs-dark.png"><img src="assets/chips/nestjs-light.png" alt="NestJS" height="34"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/chips/nodejs-dark.png"><img src="assets/chips/nodejs-light.png" alt="Node.js" height="34"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/chips/postgresql-dark.png"><img src="assets/chips/postgresql-light.png" alt="PostgreSQL" height="34"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/chips/supabase-dark.png"><img src="assets/chips/supabase-light.png" alt="Supabase" height="34"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/chips/prisma-dark.png"><img src="assets/chips/prisma-light.png" alt="Prisma" height="34"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/chips/redis-dark.png"><img src="assets/chips/redis-light.png" alt="Redis" height="34"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/chips/claude-dark.png"><img src="assets/chips/claude-light.png" alt="Claude Agent SDK" height="34"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/chips/mcp-dark.png"><img src="assets/chips/mcp-light.png" alt="MCP" height="34"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/chips/temporal-dark.png"><img src="assets/chips/temporal-light.png" alt="Temporal" height="34"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/chips/docker-dark.png"><img src="assets/chips/docker-light.png" alt="Docker" height="34"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/chips/stripe-dark.png"><img src="assets/chips/stripe-light.png" alt="Stripe" height="34"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/chips/railway-dark.png"><img src="assets/chips/railway-light.png" alt="Railway" height="34"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/chips/github-actions-dark.png"><img src="assets/chips/github-actions-light.png" alt="GitHub Actions" height="34"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/chips/sentry-dark.png"><img src="assets/chips/sentry-light.png" alt="Sentry" height="34"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/chips/posthog-dark.png"><img src="assets/chips/posthog-light.png" alt="PostHog" height="34"></picture>
+</p>
 
-<br />
+<br>
 
 ## Contact
 
-An architecture to challenge, an agent to ship, a product to build end to end — write me, I answer fast.
+An architecture to challenge, an agent to ship, a product to build end to end? Write me, I answer fast: **[huguesromaindev@gmail.com](mailto:huguesromaindev@gmail.com)**
 
-**[huguesromaindev@gmail.com](mailto:huguesromaindev@gmail.com)**  
-[LinkedIn](https://www.linkedin.com/in/huguesromain/) · [Book a call](https://calendly.com/huguesromain) · [CV](https://huguesromain.com/cv-hugues-romain-en.pdf)
-
-<br />
-
-```
-    .:.
-   :=+=:
-  :#   #:
- :#     #:
-:#=======#:
-```
+<p align="center">
+  <img src="assets/black-hole.gif" alt="Animated ASCII black hole" width="420">
+</p>
