@@ -1,10 +1,9 @@
-<p align="center">
-  <a href="https://huguesromain.com/en"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img src="assets/banner-light.png" alt="Hugues Romain, Senior Software Engineer and AI Specialist. Available for work, Nice, remote friendly." width="880"></picture></a>
-</p>
+<a href="https://huguesromain.com/en"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg"><img src="assets/header-light.svg" alt="Hugues Romain, Senior Software Engineer and AI Specialist" width="100%"></picture></a>
 
 <p align="center">
   <b>Freelance senior software engineer and AI specialist in Nice.</b><br>
-  I design and build web and mobile products end to end, with AI agents running in production.
+  I design and build web and mobile products end to end, with AI agents running in production.<br>
+  🟢 Available for work · remote friendly
 </p>
 
 <p align="center">
@@ -21,7 +20,7 @@
 
 A prompting coach for companies that lives right inside teams' AI assistants. It steps in when a prompt can be improved, turns the best methods into shared skills and shows the company its progress, **without ever reading conversations**.
 
-<a href="https://www.get-orbi.com/en"><img src="assets/orbi.webp" alt="Orbi website: Your whole company, better with AI" width="880"></a>
+<a href="https://www.get-orbi.com/en"><img src="assets/orbi.gif" alt="A Claude conversation where the Orbi widget scores a prompt, suggests a better one and sends it" width="880"></a>
 
 <p>
   <picture><source media="(prefers-color-scheme: dark)" srcset="assets/chips/mcp-dark.png"><img src="assets/chips/mcp-light.png" alt="MCP" height="34"></picture>
@@ -38,7 +37,7 @@ A prompting coach for companies that lives right inside teams' AI assistants. It
 
 Understand what you read without putting your book down. Photograph the page, highlight the hard passage, and **the AI explains it and keeps it**, book by book. In English, French and Chinese.
 
-<a href="https://apps.apple.com/app/id6830776835"><img src="assets/recto.webp" alt="Recto AI on iPhone: highlight a passage, ask about it, find it again in the library" width="880"></a>
+<a href="https://apps.apple.com/app/id6830776835"><img src="assets/recto.gif" alt="Recto AI: a finger highlights a passage in a photographed page, then the explanation appears" width="880"></a>
 
 <p>
   <picture><source media="(prefers-color-scheme: dark)" srcset="assets/chips/expo-dark.png"><img src="assets/chips/expo-light.png" alt="React Native / Expo" height="34"></picture>
